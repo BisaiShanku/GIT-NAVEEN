@@ -1,0 +1,14 @@
+What is GIT? GIT vs GITHUB
+--------------------------------------------------
+
+
+
+GIT Basics - My First Repo In GIT || PUSH & PULL In GIT
+----------------------------------------------------
+I have added the Notes file and the Thread Synchronization issue file here
+Now we would push the code with the following command
+
+git remote add origin https://github.com/BisaiShanku/GIT-NAVEEN.git
+git branch -M main
+git push -u origin main
+
