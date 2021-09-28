@@ -13,3 +13,7 @@ git branch -M main
 git push -u origin main
 
 
+
+
+What is GIT PULL Request || Commit|| PUSH || PULL || CheckOut Branch || Merge || Code Review Process
+----------------------------------------------------

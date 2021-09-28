@@ -19,7 +19,7 @@ def thread_task():
     """
     for _ in range(100000):
         increment()
-
+ 
 
 def main_task():
     global x
